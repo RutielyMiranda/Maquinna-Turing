@@ -20,7 +20,6 @@ Escolhi essa linguagem porque nunca estudei ela, foi um pouco dificil aprender u
 
 ##### Breve explicação:
 
-|-----------------------------------------------|
 | (inicialização, 0) = (inicialização, 1, R) |
 |-----------------------------------------------|
 | Se a máquina estiver no estado "init" e um 0 |
@@ -29,7 +28,6 @@ Escolhi essa linguagem porque nunca estudei ela, foi um pouco dificil aprender u
 | verdade, não mudará) e o cabeçote será movido |
 | um campo para o certo. |
 
-|-----------------------------------------------|
 | (inicialização, 1) = (inicialização, 0, R) |
 |-----------------------------------------------|
 | Se a máquina estiver no estado "init" e um 1 |
@@ -38,7 +36,6 @@ Escolhi essa linguagem porque nunca estudei ela, foi um pouco dificil aprender u
 | não mudará) e o cabeçote será movido um campo |
 | para o certo. |
 
-|-----------------------------------------------|
 | δ(inicial,b) = (final, b, N) |
 |-----------------------------------------------|
 | Se um espaço em branco ("b"), definindo o |
