@@ -3,7 +3,7 @@
 ##### Profº Thiago Freire
 ##### Materia: Teoria da Computação
 
-### Código de implementação da Máquina de Turinng
+### Código de implementação da Máquina de Turing
 
 #### Foi definida uma máquina de Turing, que complementa uma entrada binária na fita, ou seja, uma entrada "1100011", por exemplo, será transformada em "0011100".
 
