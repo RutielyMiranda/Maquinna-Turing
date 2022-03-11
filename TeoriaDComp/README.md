@@ -1,7 +1,7 @@
-Aluna: Rutiely Miranda de Sousa
-Matricula: 20181BCC0035
-Profº Thiago Freire
-Materia: Teoria da Computação
+##### Aluna: Rutiely Miranda de Sousa
+##### Matricula: 20181BCC0035
+##### Profº Thiago Freire
+##### Materia: Teoria da Computação
 
 ### Código de implementação da Máquina de Turinng
 
